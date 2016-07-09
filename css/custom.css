@@ -1,5 +1,5 @@
 body {
-  background: url(../ball-1023982_1920.jpg) center center fixed;
+  background: url(../wallpaper-1266561.jpg) center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -7,8 +7,15 @@ body {
 }
 
 h1 {
-  color:#ddd;
+  color:#333;
 }
 .lead {
-  color:#ddd;
+  color:#ffffff;
+  font-weight: 300;
+}
+.textbox {
+  margin: 10px;
+  padding: 5px;
+  background-color:#121212;
+  opacity: 0.6;
 }
